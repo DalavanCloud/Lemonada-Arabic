@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0643" format="1">
+  <advance width="959"/>
+  <unicode hex="0643"/>
+  <outline>
+    <component base="dotlesskaf-ar"/>
+    <component base="uni0654" xOffset="315" yOffset="-145"/>
+    <contour>
+      <point x="545" y="772" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="418" y="-100" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

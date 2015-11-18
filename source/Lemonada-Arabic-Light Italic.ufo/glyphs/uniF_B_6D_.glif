@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFB6D" format="1">
+  <advance width="729"/>
+  <unicode hex="FB6D"/>
+  <outline>
+    <component base="uni06A1.medi"/>
+    <component base="uniFBB6" xOffset="224" yOffset="-1"/>
+    <contour>
+      <point x="687" y="18" type="move" name="entry"/>
+    </contour>
+    <contour>
+      <point x="482" y="1034" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="-43" y="18" type="move" name="exit"/>
+    </contour>
+    <contour>
+      <point x="301" y="-100" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

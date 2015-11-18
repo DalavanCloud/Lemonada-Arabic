@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFB58" format="1">
+  <advance width="290"/>
+  <unicode hex="FB58"/>
+  <outline>
+    <component base="uni066E.init"/>
+    <component base="uniFBB9" xOffset="21" yOffset="-15"/>
+    <contour>
+      <point x="-43" y="18" type="move" name="exit"/>
+    </contour>
+    <contour>
+      <point x="53" y="-400" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="213" y="600" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFB7B" format="1">
+  <advance width="962"/>
+  <unicode hex="FB7B"/>
+  <outline>
+    <component base="uniFEA2"/>
+    <component base="uniFBB9" xOffset="441" yOffset="44"/>
+    <contour>
+      <point x="919" y="18" type="move" name="entry"/>
+    </contour>
+    <contour>
+      <point x="390" y="-570" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="470" y="630" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

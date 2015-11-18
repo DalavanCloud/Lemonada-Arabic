@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0335.Rhalf" format="1">
+  <advance width="195"/>
+  <outline>
+    <contour>
+      <point x="43" y="335"/>
+      <point x="107" y="326"/>
+      <point x="144" y="326" type="curve" smooth="yes"/>
+      <point x="192" y="326"/>
+      <point x="206" y="344"/>
+      <point x="206" y="368" type="curve" smooth="yes"/>
+      <point x="206" y="378"/>
+      <point x="205" y="396"/>
+      <point x="189" y="419" type="curve"/>
+      <point x="164" y="411"/>
+      <point x="136" y="409"/>
+      <point x="116" y="409" type="curve" smooth="yes"/>
+      <point x="84" y="409"/>
+      <point x="65" y="411"/>
+      <point x="31" y="418" type="curve"/>
+      <point x="18" y="344" type="line"/>
+    </contour>
+    <contour>
+      <point x="23" y="364" type="move" name="_center"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

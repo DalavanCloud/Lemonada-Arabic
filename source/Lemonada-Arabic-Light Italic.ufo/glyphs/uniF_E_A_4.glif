@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFEA4" format="1">
+  <advance width="936"/>
+  <unicode hex="FEA4"/>
+  <outline>
+    <contour>
+      <point x="777" y="60"/>
+      <point x="765" y="120"/>
+      <point x="757" y="161" type="curve" smooth="yes"/>
+      <point x="715" y="370"/>
+      <point x="540" y="419"/>
+      <point x="540" y="419" type="curve"/>
+      <point x="541" y="424" type="line"/>
+      <point x="581" y="413"/>
+      <point x="620" y="405"/>
+      <point x="659" y="405" type="curve" smooth="yes"/>
+      <point x="705" y="405"/>
+      <point x="751" y="416"/>
+      <point x="751" y="463" type="curve" smooth="yes"/>
+      <point x="751" y="480"/>
+      <point x="745" y="498"/>
+      <point x="731" y="520" type="curve"/>
+      <point x="709" y="507"/>
+      <point x="692" y="505"/>
+      <point x="659" y="505" type="curve" smooth="yes"/>
+      <point x="479" y="505"/>
+      <point x="198" y="563"/>
+      <point x="75" y="600" type="curve"/>
+      <point x="61" y="581"/>
+      <point x="55" y="563"/>
+      <point x="55" y="543" type="curve" smooth="yes"/>
+      <point x="55" y="432"/>
+      <point x="238" y="432"/>
+      <point x="330" y="432" type="curve" smooth="yes"/>
+      <point x="355" y="432"/>
+      <point x="404" y="434"/>
+      <point x="404" y="434" type="curve" smooth="yes"/>
+      <point x="404" y="434"/>
+      <point x="664" y="353"/>
+      <point x="664" y="60" type="curve"/>
+      <point x="-36" y="60" type="line"/>
+      <point x="-50" y="-25" type="line"/>
+      <point x="652" y="-25" type="line"/>
+      <point x="700" y="-25" type="line"/>
+      <point x="710" y="-25" type="line"/>
+      <point x="733" y="27" type="line"/>
+      <point x="739" y="27" type="line"/>
+      <point x="754" y="-4"/>
+      <point x="781" y="-25"/>
+      <point x="821" y="-25" type="curve" smooth="yes"/>
+      <point x="887" y="-25" type="line"/>
+      <point x="900" y="60" type="line"/>
+      <point x="859" y="60" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="893" y="18" type="move" name="entry"/>
+    </contour>
+    <contour>
+      <point x="433" y="630" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="-42" y="18" type="move" name="exit"/>
+    </contour>
+    <contour>
+      <point x="319" y="-85" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

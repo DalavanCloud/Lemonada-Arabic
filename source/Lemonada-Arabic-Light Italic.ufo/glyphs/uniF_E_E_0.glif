@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFEE0" format="1">
+  <advance width="358"/>
+  <unicode hex="FEE0"/>
+  <outline>
+    <contour>
+      <point x="141" y="-25" type="line"/>
+      <point x="165" y="27" type="line"/>
+      <point x="169" y="27" type="line"/>
+      <point x="185" y="-4"/>
+      <point x="212" y="-25"/>
+      <point x="252" y="-25" type="curve" smooth="yes"/>
+      <point x="310" y="-25" type="line"/>
+      <point x="323" y="60" type="line"/>
+      <point x="287" y="60" type="line" smooth="yes"/>
+      <point x="221" y="60"/>
+      <point x="184" y="106"/>
+      <point x="184" y="179" type="curve" smooth="yes"/>
+      <point x="184" y="277"/>
+      <point x="277" y="680"/>
+      <point x="277" y="734" type="curve" smooth="yes"/>
+      <point x="277" y="762"/>
+      <point x="260" y="775"/>
+      <point x="232" y="775" type="curve" smooth="yes"/>
+      <point x="203" y="775"/>
+      <point x="160" y="761"/>
+      <point x="136" y="740" type="curve"/>
+      <point x="177" y="697" type="line"/>
+      <point x="144" y="520"/>
+      <point x="87" y="168"/>
+      <point x="79" y="60" type="curve"/>
+      <point x="-36" y="60" type="line"/>
+      <point x="-50" y="-25" type="line"/>
+    </contour>
+    <contour>
+      <point x="315" y="18" type="move" name=" entry"/>
+    </contour>
+    <contour>
+      <point x="228" y="850" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="-43" y="18" type="move" name="exit"/>
+    </contour>
+    <contour>
+      <point x="76" y="-100" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

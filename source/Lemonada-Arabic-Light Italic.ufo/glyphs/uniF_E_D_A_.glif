@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFEDA" format="1">
+  <advance width="1040"/>
+  <unicode hex="FEDA"/>
+  <outline>
+    <component base="dotlesskaf-ar.fina"/>
+    <component base="uni0654" xOffset="315" yOffset="-145"/>
+    <contour>
+      <point x="997" y="18" type="move" name="entry"/>
+    </contour>
+    <contour>
+      <point x="418" y="-100" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="545" y="772" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hamzaaboveFathatan-ar" format="1">
+  <advance width="260"/>
+  <outline>
+    <component base="uni0654" xOffset="3"/>
+    <component base="uni064B" xOffset="53" yOffset="326"/>
+    <contour>
+      <point x="267" y="1102" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="168" y="521" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

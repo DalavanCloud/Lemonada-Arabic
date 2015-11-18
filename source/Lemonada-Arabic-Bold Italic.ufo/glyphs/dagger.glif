@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dagger" format="1">
+  <advance width="552"/>
+  <unicode hex="2020"/>
+  <outline>
+    <component base="l" xOffset="77"/>
+    <component base="uni0335" xOffset="-47" yOffset="155" xyScale="0.017" yxScale="-0.017"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

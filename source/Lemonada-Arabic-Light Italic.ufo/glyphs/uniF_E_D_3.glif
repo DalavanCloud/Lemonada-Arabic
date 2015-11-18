@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFED3" format="1">
+  <advance width="646"/>
+  <unicode hex="FED3"/>
+  <outline>
+    <component base="uni06A1.init"/>
+    <component base="uniFBB2" xOffset="297" yOffset="-1"/>
+    <contour>
+      <point x="-43" y="18" type="move" name="exit"/>
+    </contour>
+    <contour>
+      <point x="301" y="-100" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="465" y="937" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

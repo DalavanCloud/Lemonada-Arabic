@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb" format="1">
+  <advance width="476"/>
+  <unicode hex="0301"/>
+  <outline>
+    <contour>
+      <point x="161" y="676"/>
+      <point x="266" y="742"/>
+      <point x="375" y="742" type="curve"/>
+      <point x="381" y="753"/>
+      <point x="384" y="770"/>
+      <point x="384" y="791" type="curve" smooth="yes"/>
+      <point x="384" y="828"/>
+      <point x="368" y="846"/>
+      <point x="333" y="846" type="curve" smooth="yes"/>
+      <point x="267" y="846"/>
+      <point x="234" y="775"/>
+      <point x="94" y="720" type="curve"/>
+      <point x="100" y="690"/>
+      <point x="111" y="676"/>
+      <point x="126" y="676" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="259" y="886" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="206" y="575" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

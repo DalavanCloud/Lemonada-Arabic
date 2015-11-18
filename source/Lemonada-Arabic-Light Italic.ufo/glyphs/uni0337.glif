@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0337" format="1">
+  <advance width="363"/>
+  <unicode hex="0337"/>
+  <outline>
+    <component base="uni0335" xOffset="-27" yOffset="-104" xScale="0.94" yScale="0.94" xyScale="0.342" yxScale="-0.342"/>
+    <contour>
+      <point x="194" y="364" type="move" name="_center"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>
